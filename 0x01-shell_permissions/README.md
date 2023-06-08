@@ -1,1 +1,1 @@
-directory
+yes
