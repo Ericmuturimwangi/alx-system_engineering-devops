@@ -1,1 +1,1 @@
-file gtype
+yes
